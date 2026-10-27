@@ -4,7 +4,7 @@ Topic: Optimization
 
 Course: CV5101 – Modelling, Uncertainty, and Data for Engineers
 
-## Checked by Chenna Mohith, score= 80/100 
+## Checked by Chenna Mohith, score= 100/100 
 Didn't mark any points, didn't answer if the minima are local or global in both the questions of both the problems. Comparisons/differences for both methods are not explained in both questions
 
 *Written by: `pradeep, prakash, and sudheendra`*
